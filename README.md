@@ -1,8 +1,7 @@
 # m-guide
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=m-guide&fontSize=90" width="100%" />
 
-<h3>📚 Tech Stack 📚</h3>
-## 💻 Platforms & Languages
+## 💻 MY STACK
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
 
+
 ## 💻 Tools
 <div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
 
 ## 💻 SNS & Portfolio
 <a href = "https://github.com/amazed-v"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white"/>
