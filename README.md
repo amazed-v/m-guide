@@ -1,6 +1,5 @@
 # m-guide
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=m-guide&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=m-guide&fontSize=90)
 
 ## 💻 My Stack
 <div>
