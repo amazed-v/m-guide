@@ -10,7 +10,9 @@
 </head>
 <body>
 
-    Hello World!
+    Hello World! <br>
+    My Id is ${m.memberId}<br>
+    My Pw is ${m.memberPw}
     
 </body>
 </html>
